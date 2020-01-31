@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45678" started-at="2020-01-31T10:05:38Z" finished-at="2020-01-31T10:06:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45678" started-at="2020-01-31T10:05:38Z" finished-at="2020-01-31T10:06:24Z">
+      <class name="com.crm.qa.tests.FinalCheckoutTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.tests.FinalCheckoutTest@6fd02e5]" name="setUp" is-config="true" duration-ms="45616" started-at="2020-01-31T10:05:38Z" finished-at="2020-01-31T10:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CheckoutTest1()[pri:0, instance:com.crm.qa.tests.FinalCheckoutTest@6fd02e5]" name="CheckoutTest1" duration-ms="12" started-at="2020-01-31T10:06:24Z" finished-at="2020-01-31T10:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutTest1 -->
+      </class> <!-- com.crm.qa.tests.FinalCheckoutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
